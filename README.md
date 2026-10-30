@@ -9,7 +9,7 @@ Players investigate cases by examining clues, questioning suspects, collecting e
 
 ## Live Application
 
-**Frontend:** https://shadow-files.vercel.app
+**Frontend:** https://shadow-files-one.vercel.app
 
 **Backend:** https://shadow-files-backend.onrender.com
 
